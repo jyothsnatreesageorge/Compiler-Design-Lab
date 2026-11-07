@@ -1,5 +1,4 @@
 //line,word,char count
-$ cat exp1.l
 %{
 #include<stdio.h>
 int line=0,word=0,chars=0;
