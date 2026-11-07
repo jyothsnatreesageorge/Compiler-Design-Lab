@@ -1,5 +1,4 @@
 //recursive descent parser
-$ cat exp11.c
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
