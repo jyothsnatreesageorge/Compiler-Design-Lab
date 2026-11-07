@@ -1,5 +1,4 @@
 //substring conversion
-$ cat exp2.l
 %{
 #include<stdio.h>
 #include<string.h>
